@@ -1,4 +1,4 @@
-# Indigo
+# Field Project
 
 This is our collaborative project.
 
